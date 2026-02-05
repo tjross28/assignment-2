@@ -1,0 +1,39 @@
+.lp-container {
+    max-width: 650px;
+    margin: auto;
+    padding: 20px;
+    font-family: "Times New Roman", serif;
+}
+
+.lp-author {
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.lp-title {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.lp-container img {
+    display: block;
+    margin: 15px auto;
+    width: 300px;
+}
+
+.lp-container p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.quote {
+    color: red;
+}
+
+.back-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
